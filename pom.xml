@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.jeecgframework</groupId>
 	<version>3.1.0</version>
-	<artifactId>wangyawei</artifactId>
+	<artifactId>here</artifactId>
 	<packaging>war</packaging>
 	<properties>
         <codegenerate.version>3.4.7</codegenerate.version>
@@ -842,7 +842,7 @@
 				</configuration>
 			</plugin>
 	    </plugins>
-		<finalName>wangyawei</finalName>
+		<finalName>here</finalName>
 		<resources>
 			<resource>
 				<directory>src/main/java</directory>

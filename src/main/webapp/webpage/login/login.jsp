@@ -117,7 +117,7 @@ label.iPhoneCheckLabelOn span {
     <!--Login div-->
     <div class="clear"></div>
     <div id="versionBar">
-        <div class="copyright">&copy; 版权所有 <span class="tip"><a href="http://www.cdsoftware.cn" title="wx1.0 微信管家" target="_blank">wx1.0 微信管家</a> (推荐使用IE8+,谷歌浏览器可以获得更快,更安全的页面响应速度)   &nbsp;&nbsp;&nbsp;技术支持: <a href="http://www.cdsoftware.cn" title="创度软件" target="_blank">创度软件</a></span></div>
+        <div class="copyright">&copy; 版权所有 <span class="tip"><a href="http://www.heredesigner.com" title="看这儿网内容管理运营系统" target="_blank">wx1.0 微信管家</a> (推荐使用IE8+,谷歌浏览器可以获得更快,更安全的页面响应速度)   &nbsp;&nbsp;&nbsp;技术支持: <a href="http://www.heredesigner.com" title="看这儿网" target="_blank">创度看这儿网</a></span></div>
     </div>
     <!-- Link JScript-->
     <script type="text/javascript" src="plug-in/jquery/jquery-1.8.3.min.js"></script>

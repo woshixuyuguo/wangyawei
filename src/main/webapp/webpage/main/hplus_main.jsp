@@ -14,10 +14,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="renderer" content="webkit">
 
-    <title>创度微信管家系统</title>
+    <title>看这儿网内容管理运营系统</title>
 
-    <meta name="keywords" content="创度微信管家系统">
-    <meta name="description" content="创度微信管家系统">
+    <meta name="keywords" content="看这儿网内容管理运营系统">
+    <meta name="description" content="看这儿网内容管理运营系统">
 
     <link rel="shortcut icon" href="images/favicon.ico">
     <link href="plug-in-ui/hplus/css/bootstrap.min.css?v=3.3.6" rel="stylesheet">
@@ -84,7 +84,7 @@
                 <div class="navbar-header" style="width: 40%;height: 60px;"><a class="navbar-minimalize minimalize-styl-2 btn btn-primary " href="#"><i class="fa fa-bars"></i> </a>
                     <form role="search" class="navbar-form-custom" method="post" action="search_results.html">
                         <div class="form-group" >
-                            <input type="text" placeholder="创度微信管家系统" class="form-control" name="top-search" id="top-search">
+                            <input type="text" placeholder="看这儿网内容管理运营系统" class="form-control" name="top-search" id="top-search">
                         </div>
                     </form>
                 </div>
@@ -212,7 +212,7 @@
             <iframe class="J_iframe" name="iframe0" width="100%" height="100%" src="loginController.do?home" frameborder="0" data-id="loginController.do?home" seamless></iframe>
         </div>
         <div class="footer">
-            <div class="pull-right">&copy; 版权所有 <span class="tip"><a href="http://www.cdsoftware.cn" target="_blank" title="创度微信管家系统">wx1.0 微信管家</a> (推荐谷歌浏览器，获得更快响应速度) 技术支持:<a href="http://www.cdsoftware.cn" target="_blank" title="创度软件">创度软件</a> </span>
+            <div class="pull-right">&copy; 版权所有 <span class="tip"><a href="http://www.heredesigner.com" target="_blank" title="看这儿网内容管理运营系统">看这儿网</a> (推荐谷歌浏览器，获得更快响应速度) 技术支持:<a href="http://www.heredesigner.com" target="_blank" title="看这儿网内容管理运营系统">看这儿网内容管理运营系统</a> </span>
             </div>
         </div>
     </div>
