@@ -15,6 +15,11 @@
 
 	<web>
 		<link target="/">
+			<dir name="D:/Administrator/git/wangyawei/target/m2e-wtp/web-resources">
+				<exclude name="/"/>
+			</dir>
+		</link>
+		<link target="/">
 			<dir name="D:/Administrator/git/wangyawei/src/main/webapp">
 			</dir>
 		</link>
